@@ -1,0 +1,17 @@
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_utils.c
+..\obj\lv_utils.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_utils.h
+..\obj\lv_utils.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_utils.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_math.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\../lv_conf_internal.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+..\obj\lv_utils.o: ..\lvgl\lv_conf.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_printf.h
+..\obj\lv_utils.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_txt.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_area.h
+..\obj\lv_utils.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\../font/lv_font.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\../font/lv_symbol_def.h
+..\obj\lv_utils.o: ..\lvgl\src\misc\lv_types.h
